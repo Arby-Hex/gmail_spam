@@ -5,7 +5,7 @@ Tapi Ingat, Gua Gak Bertanggung Jawab Ya Atas Perbuatan Yang Kalian Lakukan Deng
 Berbuat Harus Berani Bertanggung Jawab Oke?
 
 # Tool Display Example
-![Nama Alt](https://files.catbox.moe/namafile.jpg)
+![Nama Alt](https://files.catbox.moe/0qm03c.png)
 
 # 🛠️ INSTALASI FOR TERMUX
 ```bash
