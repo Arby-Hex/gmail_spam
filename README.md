@@ -15,5 +15,5 @@ cd gmail_spam
 pip install requests
 python gmail_spam.pyc
 ```
-> Jangan Lupa Kasih Star Ya
-> © 27-7-2025
+> Jangan Lupa Kasih Star Ya                           
+> _© 27-7-2025_
