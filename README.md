@@ -8,10 +8,12 @@ Berbuat Harus Berani Bertanggung Jawab Oke?
 ```bash
 pkg update && pkg upgrade -y
 pkg install python -y
+pkg install python-pip -y
 pkg install git -y
 git clone https://github.com/Arby-Hex/gmail_spam
 cd gmail_spam
+pip install requests
 python gmail_spam.pyc
 ```
-> Jangan Lupa Kasih Star Ya❤️
+> Jangan Lupa Kasih Star Ya
 > © 27-7-2025
