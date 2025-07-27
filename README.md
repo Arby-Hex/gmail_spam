@@ -4,6 +4,9 @@ Lagi Kesel Sama Guru? Spam Lah Email-nya Biar Mampus😝
 Tapi Ingat, Gua Gak Bertanggung Jawab Ya Atas Perbuatan Yang Kalian Lakukan Dengan Tool Ini. Berani
 Berbuat Harus Berani Bertanggung Jawab Oke?
 
+# Tool Display Example
+![Nama Alt](https://files.catbox.moe/namafile.jpg)
+
 # 🛠️ INSTALASI FOR TERMUX
 ```bash
 pkg update && pkg upgrade -y
