@@ -15,7 +15,7 @@ cd gmail_spam
 pip install requests
 python gmail_spam.pyc
 ```
-[![Chanel WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vb6VXlNK5cDJkIjUxi17) [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)](https://www.tiktok.com/@viper_exe9)
+[![Chanel WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vb6VXlNK5cDJkIjUxi17) [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)](https://www.tiktok.com/@viper_exe9)[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/usernamekamu)
 
 > Jangan Lupa Kasih Star Ya                           
 > _© 27-7-2025_
